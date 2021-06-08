@@ -1,0 +1,1 @@
+function ClickFunc(){alert("Sorry,This is an inactive page!\n抱歉，这不是一个活动的页面！")}
